@@ -8,3 +8,8 @@
 	url = https://github.com/mitra-ep/rsea
 	shallow = true
 	registered = true
+[submodule "SlaPMEG"]
+	path = SlaPMEG
+	url = https://github.com/cran/SlaPMEG
+	shallow = true
+	registered = true
