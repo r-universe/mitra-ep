@@ -2,9 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "rSEA"]
-	path = rSEA
-	url = https://github.com/mitra-ep/rsea
 [submodule "SlaPMEG"]
 	path = SlaPMEG
 	url = https://github.com/cran/SlaPMEG
+[submodule "rSEA"]
+	path = rSEA
+	url = https://github.com/mitra-ep/rsea
