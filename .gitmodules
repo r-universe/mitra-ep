@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "SlaPMEG"]
 	path = SlaPMEG
-	url = https://github.com/cran/SlaPMEG
+	url = https://github.com/mitra-ep/slapmeg
 [submodule "rSEA"]
 	path = rSEA
 	url = https://github.com/mitra-ep/rsea
