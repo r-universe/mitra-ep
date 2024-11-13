@@ -5,6 +5,9 @@
 [submodule "SlaPMEG"]
 	path = SlaPMEG
 	url = https://github.com/mitra-ep/slapmeg
+[submodule "rOCEAN"]
+	path = rOCEAN
+	url = https://github.com/mitra-ep/rocean
 [submodule "rSEA"]
 	path = rSEA
 	url = https://github.com/mitra-ep/rsea
